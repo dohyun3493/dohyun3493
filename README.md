@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:e91e63&height=180&text=DOHYUN&fontColor=ffffff&fontSize=60&desc=/*backend%20developer%20and%20more*/&descSize=18&descAlignY=75" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:e91e63&height=180&text=DOHYEON&fontColor=ffffff&fontSize=60&desc=/*backend%20developer%20and%20more*/&descSize=18&descAlignY=75" />
 
 ### PROFILE 📍
 
