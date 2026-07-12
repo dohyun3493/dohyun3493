@@ -10,9 +10,9 @@
 <a href="https://블로그주소"><img src="https://img.shields.io/badge/TECH%20BLOG-FF5722?style=for-the-badge&logo=tistory&logoColor=white"/></a>
 -->
 
-### TOY PROJECT 🧸
+### PROJECT 🤖
 
-<a href="https://github.com/dohyun3493"><img src="https://img.shields.io/badge/도우미%20·%20AI%20투명%20기부%20플랫폼-1a1b27?style=for-the-badge"/></a>
+<a href="https://github.com/dohyun3493/Chatbot"><img src="https://img.shields.io/badge/디지털%20트윈%20Text2SQL%20챗봇-0d1117?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 ### 💡 What I've Used 💡
 
