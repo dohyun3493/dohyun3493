@@ -13,6 +13,7 @@
 ### PROJECT 🤖
 
 <a href="https://github.com/dohyun3493/Chatbot"><img src="https://img.shields.io/badge/디지털%20트윈%20Text2SQL%20챗봇-0d1117?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/dohyun3493/doumi"><img src="https://img.shields.io/badge/도우미%20·%20AI%20기부%20추천%20플랫폼-0d1117?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 ### 💡 What I've Used 💡
 
