@@ -44,9 +44,4 @@
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 <img src="https://img.shields.io/badge/Webex-000000?style=for-the-badge&logo=cisco&logoColor=white"/>
 
-### 🌳 Github Stats 🌳
-
-<img src="https://github-readme-stats.vercel.app/api?username=dohyun3493&show_icons=true&theme=default&count_private=true" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dohyun3493&layout=compact&langs_count=6" height="160"/>
-
 </div>
